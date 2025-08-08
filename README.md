@@ -24,6 +24,4 @@ Connectify has the following dependencies:
 
 Connectify is licensed under the **MIT License**. See the [LICENSE file](LICENSE) for more information.
 
-## Author
 
-Connectify was created by [Sami Hindi](https://github.com/FujiwaraChoki).
